@@ -27,6 +27,8 @@ Tranexa is an all-in-one asset management mobile app that helps you keep track o
 # Design 
 
 ---
-| ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled.png) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%201.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%202.jpeg) |
+![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled.png)
+
+| ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%205.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%201.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%202.jpeg) |
 | ----------- | ----------- | ----------- | ----------- |
-| ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%203.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%204.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%201.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%205.jpeg) |
+| ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%203.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%204.jpeg) | ![Untitled](Tranexa%20-%20Asset%20Management%20a03b3779811243b6849f6b2a485418fd/Untitled%201.jpeg) ||

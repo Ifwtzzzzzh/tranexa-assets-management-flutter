@@ -7,12 +7,6 @@ Tranexa is an all-in-one asset management mobile app that helps you keep track o
 
 </aside>
 
-# Assets ✳
-
----
-
-[https://drive.google.com/drive/folders/19uMoGEJZf2Td2hHhrfnscroQUW0EJrVQ](https://drive.google.com/drive/folders/19uMoGEJZf2Td2hHhrfnscroQUW0EJrVQ)
-
 # Tech Stack 🖨
 
 ---
